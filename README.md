@@ -1,0 +1,2 @@
+# Minitab
+Minitab Exercises
